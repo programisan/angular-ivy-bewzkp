@@ -1,0 +1,13 @@
+form {
+  text-align: center;
+  margin-left: 4.6%;
+  margin-top: 2px;
+  background-color: rgb(230, 230, 230);
+  width: 95%;
+  border: 10px black;
+}
+.tamanho {
+  background-color: rgb(230, 230, 230);
+  height: 10%;
+  width: 100%;
+}

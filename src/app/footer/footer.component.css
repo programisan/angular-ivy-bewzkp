@@ -1,0 +1,29 @@
+.text-reset {
+  text-decoration: none;
+  transition: 0.1s;
+  color: aqua;
+}
+.text-reset:hover {
+  color: rgb(255, 0, 0);
+}
+
+i {
+  transition: 1s;
+
+}
+i:hover {
+  color: blue;
+}
+p,
+h3,
+h6 {
+  transition: 0.1s;
+}
+
+p:hover {
+  color: rgb(0, 0, 0);
+}
+h3,
+h6:hover {
+  color: black;
+}
